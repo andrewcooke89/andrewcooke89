@@ -7,11 +7,11 @@ Highly knowledgable in Javascript technologies including (but not limited to) Ty
 ## Favourite Technologies:
 
 ```
-$ GraphQl & Apollo
-$ Typescript
-$ React
-$ Vue
-$ Koa
+→ GraphQl & Apollo
+→ Typescript
+→ React
+→ Vue
+→ Koa
 ```
 
 ## For Fun?
