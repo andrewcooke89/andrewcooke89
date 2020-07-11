@@ -1,5 +1,6 @@
-<img src="/images/banner.png" height="200" width="100%" />
-
+<p>
+  <img src="/images/banner.png" height="200" width="100%" />
+</p>
 
 
 # Andrew Cooke - @CookieCodes
