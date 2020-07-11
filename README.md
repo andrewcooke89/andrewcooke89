@@ -1,3 +1,7 @@
+<img src="./images/banner.png" height="200" />
+
+
+
 # Andrew Cooke - @CookieCodes
 
 Hi I'm Andy - I am a Full Stack Software Engineer living in Berlin. I'm passionate about creating scaleable and reliable applications that provide great user experience.
