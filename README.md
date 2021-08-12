@@ -5,9 +5,11 @@
 
 # Andrew Cooke - @CookieCodes
 
-Hi I'm Andy - I am a Full Stack Software Engineer living in Berlin. I'm passionate about creating scalable and reliable applications that provide great user experience.
+Hi I'm Andrew - I am a Full Stack Software Engineer living in Berlin. I'm passionate about creating scalable and reliable applications that provide great user experience.
 
 Highly knowledgable in Javascript technologies including (but not limited to) Typescript, React, Angular, Apollo, GraphQl, Redux, Redux-Saga, Koa, Express and NodeJs.
+
+I'm also incredibly passionate about working towards a decentralized future with the use of blockchain technology.
 
 ## Favourite Technologies:
 
@@ -15,8 +17,8 @@ Highly knowledgable in Javascript technologies including (but not limited to) Ty
 → GraphQl & Apollo
 → Typescript
 → React
-→ Vue
-→ Koa
+→ Solidity
+→ Web3
 ```
 
 ## For Fun?
