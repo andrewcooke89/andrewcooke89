@@ -7,7 +7,7 @@
 
 Hi I'm Andrew - I am a Full Stack Software Engineer living in Berlin. I'm passionate about creating scalable and reliable applications that provide great user experience.
 
-Highly knowledgable in Javascript technologies including (but not limited to) Typescript, React, Angular, Apollo, GraphQl, Redux, Redux-Saga, Koa, Express and NodeJs.
+Highly knowledgable in Javascript technologies including (but not limited to) Typescript,Rust,  GraphQl,  NodeJs.
 
 I'm also incredibly passionate about working towards a decentralized future with the use of blockchain technology.
 
@@ -15,8 +15,8 @@ I'm also incredibly passionate about working towards a decentralized future with
 
 ```
 → GraphQl & Apollo
+→ Rust
 → Typescript
-→ React
 → Solidity
 → Web3
 ```
